@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Hack1 {
 	public static void main(String[] args) {
 		
+		System.out.println("hi..hacker");
+		
 		String str = "zzzzzzoooooooooooo";
 		System.out.println(str.length());
 		int x=1;
